@@ -1,0 +1,1 @@
+Başlangıç Seviye Frontend Web Development Patikası'nın HTML kursu kapsamında hazırladığım ödev 2 dosyasıdır.
